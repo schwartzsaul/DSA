@@ -123,7 +123,7 @@ if __name__ == '__main__':
     ll.insert_values(["banana","mango","grapes","orange"])
     ll.print_forward()
     ll.print_backward()
-    print(ll.get_length())
+    ll.get_length()
     #ll.insert_at_end("figs")
     #ll.print_forward()
     #ll.insert_at(0,"jackfruit")
